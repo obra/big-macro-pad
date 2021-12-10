@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "modela-rescue")(type "Legacy")(uri "/Users/jesse/Documents/GitHub/keyboardio/hardware/ModelA/ModelA/modela-rescue.lib")(options "")(descr ""))
+  (lib (name "test-point")(type "Legacy")(uri "/Users/jesse/Documents/GitHub/keyboardio/hardware/ModelA/ModelA/test_point.lib")(options "")(descr ""))
+)
